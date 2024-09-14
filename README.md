@@ -70,9 +70,9 @@ Bernd Furnier
 
 ## Version history
 
-    * 0.2
+    * 0.3
 
-    * Initial Test Release
+    *  right WIFI-function order for setting hostname Draft
 
 ## License
 
